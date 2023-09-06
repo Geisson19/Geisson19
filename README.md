@@ -7,7 +7,7 @@ FullStack Developer
 I'm a full stack developer who loves to learn new things
 
 *   🌍  I'm based in Colombia
-*   ✉️  You can contact me at [g.ponce1901@gmail](mailto:gei)
+*   ✉️  You can contact me at [g.ponce1901@gmail].com(mailto:gei)
 *   🚀  I'm currently working on [Planny](http://planny.me/)
 *   🧠  I'm learning Ruby on Rails
 *   🤝  I'm open to collaborating on Projects
