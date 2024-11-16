@@ -43,9 +43,6 @@ I'm a full stack developer who loves to learn new things :D
 
 <a href="http://www.github.com/Geisson19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Geisson19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-[![](https://visitcount.itsvg.in/api?id=Geisson19&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
-
 <!--- [](https://visitor-badge.glitch.me/badge?page_id=Geisson19.Geisson19) --->
  ![](https://komarev.com/ghpvc/?username=Geisson19&style=plastic&color=blue)
  ------
