@@ -1,9 +1,6 @@
 Hi 👋 I'm Geisson, a passionate Full-Stack Developer!
 ==============================
 
-
--------------------
-
 I enjoy building innovative solutions and love learning new things every day. 😄
 
 *   ✉️  Reach me at: g.ponce1901@gmail.com
