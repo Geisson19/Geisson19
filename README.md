@@ -1,17 +1,14 @@
-Hi 👋 My name is Geisson
+Hi 👋 I'm Geisson, a passionate Full-Stack Developer!
 ==============================
 
 FullStack Developer
 -------------------
 
-I'm a full stack developer who loves to learn new things :D
+I enjoy building innovative solutions and love learning new things every day. 😄
 
-*   🌍  I'm based in Colombia
-*   ✉️  You can contact me at g.ponce1901@gmail.com
-*   🚀  I'm currently working on [Planny](http://planny.me/)
-*   🧠  I'm learning Go
-*   🤝  I'm open to collaborating on Projects
-*   ⚡  I like to play billiards pool
+*   ✉️  Reach me at: g.ponce1901@gmail.com
+*   🚀  Currently working on: Planny (http://planny.me/)
+*   🧠  Currently learning: Go
 
 ### Skills
 <p align="left">
