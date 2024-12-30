@@ -1,7 +1,7 @@
 Hi 👋 I'm Geisson, a passionate Full-Stack Developer!
 ==============================
 
-FullStack Developer
+
 -------------------
 
 I enjoy building innovative solutions and love learning new things every day. 😄
