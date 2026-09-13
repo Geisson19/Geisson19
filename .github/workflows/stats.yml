@@ -18,10 +18,10 @@ jobs:
     env:
       COMMON: username=${{ github.repository_owner }}&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
 
       - name: Stats card (light)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
         with:
           card: stats
           options: ${{ env.COMMON }}&show_icons=true&theme=default&title_color=0969da&icon_color=0969da
@@ -29,7 +29,7 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Stats card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
         with:
           card: stats
           options: ${{ env.COMMON }}&show_icons=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff
@@ -37,7 +37,7 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Top languages (light)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
         with:
           card: top-langs
           options: ${{ env.COMMON }}&layout=compact&langs_count=8&theme=default&title_color=0969da
@@ -45,7 +45,7 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Top languages (dark)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
         with:
           card: top-langs
           options: ${{ env.COMMON }}&layout=compact&langs_count=8&theme=github_dark&title_color=58a6ff
