@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=9198A1&center=true&vCenter=true&width=640&height=40&lines=Shipping+AI+agents+that+survive+contact+with+real+users;TypeScript+end+to+end%3A+Next.js%2C+NestJS%2C+Prisma%2C+Temporal;Product+Engineer+at+a+stealth+startup">
-      <img alt="Shipping AI agents that survive contact with real users" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=59636E&center=true&vCenter=true&width=640&height=40&lines=Shipping+AI+agents+that+survive+contact+with+real+users;TypeScript+end+to+end%3A+Next.js%2C+NestJS%2C+Prisma%2C+Temporal;Product+Engineer+at+a+stealth+startup">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=9198A1&center=true&vCenter=true&width=640&height=40&lines=Shipping+AI+agents+that+survive+contact+with+real+users;TypeScript+end+to+end%3A+Next.js%2C+NestJS%2C+Prisma%2C+Temporal;Product+Engineer+at+Primero+AI">
+      <img alt="Shipping AI agents that survive contact with real users" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=59636E&center=true&vCenter=true&width=640&height=40&lines=Shipping+AI+agents+that+survive+contact+with+real+users;TypeScript+end+to+end%3A+Next.js%2C+NestJS%2C+Prisma%2C+Temporal;Product+Engineer+at+Primero+AI">
     </picture>
   </a>
 </p>
@@ -19,7 +19,7 @@ Systems and Computing Engineer. I care about typed boundaries, small modules, an
 
 ### Now
 
-- Building an AI agent platform at a stealth startup: agent runtime, workflow orchestration, sandboxed execution, observability.
+- Building the AI agent platform at [Primero AI](https://primero.com): agent runtime, workflow orchestration, sandboxed execution, observability.
 - Connecting agents to hostile data sources such as Sybase ASE, SQL Server and HANA without letting the mess leak into the domain model.
 - Sharpening a terminal-first workflow: Neovim, Zellij, Ghostty and Rust CLI tools.
 
