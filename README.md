@@ -1,10 +1,10 @@
-Hi 👋 I'm Geisson, a passionate Full-Stack Developer!
+Hi 👋 I'm Geisson
 ==============================
 
 I enjoy building innovative solutions and love learning new things every day. 😄
 
 *   ✉️  Reach me at: g.ponce1901@gmail.com
-*   🧠  Currently learning: Go
+*   🧠  Currently learning: Go and Microservices
 
 ### Skills
 <p align="left">
