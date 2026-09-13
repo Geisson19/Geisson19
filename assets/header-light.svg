@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Geisson Ponce, Product Engineer">
+  <defs>
+    <linearGradient id="rule" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#0969da" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="82" font-size="52" font-weight="700" fill="#1f2328" letter-spacing="-1">Geisson Ponce</text>
+    <text x="42" y="118" font-size="19" fill="#59636e">Product Engineer · TypeScript · AI agents in production</text>
+  </g>
+  <rect x="40" y="140" width="420" height="2" rx="1" fill="url(#rule)"/>
+</svg>

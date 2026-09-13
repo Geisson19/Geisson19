@@ -1,41 +1,75 @@
-Hi 👋 I'm Geisson
-==============================
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Geisson Ponce — Product Engineer" src="assets/header-light.svg" width="100%">
+</picture>
 
-I enjoy building innovative solutions and love learning new things every day. 😄
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=9198A1&center=true&vCenter=true&width=640&height=40&lines=Shipping+AI+agents+that+survive+contact+with+real+users;TypeScript+end+to+end%3A+Next.js%2C+NestJS%2C+Prisma%2C+Temporal;Product+Engineer+at+a+stealth+startup">
+      <img alt="Shipping AI agents that survive contact with real users" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=59636E&center=true&vCenter=true&width=640&height=40&lines=Shipping+AI+agents+that+survive+contact+with+real+users;TypeScript+end+to+end%3A+Next.js%2C+NestJS%2C+Prisma%2C+Temporal;Product+Engineer+at+a+stealth+startup">
+    </picture>
+  </a>
+</p>
 
-*   ✉️  Reach me at: g.ponce1901@gmail.com
-*   🧠  Currently learning: Go and Microservices
+I build the platform that lets a team design, run and observe AI agents against messy enterprise systems: ERPs, CRMs, spreadsheets and legacy SQL. Most of my day is TypeScript across the whole stack, with durable workflows on Temporal and infrastructure on AWS.
 
-### Skills
-<p align="left">
-                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-                                <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                                <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-                                <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-                                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                                <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-                    </p>
-                    
+Systems and Computing Engineer. I care about typed boundaries, small modules, and code that is still readable six months later.
 
-### Socials
-                  
-<p align="left"> <a href="https://discord.com/users/7860" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Geisson19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ggeisson_p" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/geissonponce" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19519004/geisson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### Now
 
-### Badges
+- Building an AI agent platform at a stealth startup: agent runtime, workflow orchestration, sandboxed execution, observability.
+- Connecting agents to hostile data sources such as Sybase ASE, SQL Server and HANA without letting the mess leak into the domain model.
+- Sharpening a terminal-first workflow: Neovim, Zellij, Ghostty and Rust CLI tools.
 
-<b>My GitHub Stats</b>
+### Stack
 
-<a href="http://www.github.com/Geisson19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Geisson19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="TypeScript, Next.js, NestJS, React, Node.js, Prisma, PostgreSQL, Tailwind, AWS, Terraform, Docker, Python, FastAPI, GitHub Actions, Neovim, Astro" src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,react,nodejs,prisma,postgres,tailwind,aws,terraform,docker,python,fastapi,githubactions,neovim,astro&perline=8">
+  </a>
+</p>
 
-<!--- [](https://visitor-badge.glitch.me/badge?page_id=Geisson19.Geisson19) --->
- ![](https://komarev.com/ghpvc/?username=Geisson19&style=plastic&color=blue)
- ------
+<p align="center"><sub>Also in daily use: Temporal · Mastra · AI SDK · tRPC · Zod · Turborepo · pnpm · Flutter</sub></p>
+
+### Selected work
+
+| Project | What it is |
+| --- | --- |
+| [dotfiles-terminal-setup](https://github.com/Geisson19/dotfiles-terminal-setup) | Reproducible terminal environment: LazyVim, Ghostty, Zellij and a curated set of Rust CLI tools. |
+| [bili](https://github.com/Geisson19/bili-back) | Product built end to end: [NestJS backend](https://github.com/Geisson19/bili-back), [Flutter app](https://github.com/Geisson19/bili-app) and [Astro web](https://github.com/Geisson19/bili-web). |
+| [Diametro](https://github.com/Geisson19/Diametro) | Mobile app to protect journalists during field coverage, with its [admin panel](https://github.com/Geisson19/Diametro_admin_front) and [backend](https://github.com/Geisson19/Diametro_backend). |
+
+### Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile/stats-light.svg">
+    <img alt="GitHub stats" src="profile/stats-light.svg" height="165">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile/langs-light.svg">
+    <img alt="Top languages" src="profile/langs-light.svg" height="165">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Geisson19&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Geisson19&theme=default&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Geisson19&theme=default&hide_border=true&background=00000000" height="165">
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Geisson19/Geisson19/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Geisson19/Geisson19/output/snake-light.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Geisson19/Geisson19/output/snake-light.svg" width="100%">
+</picture>
+
+### Reach me
+
+The best place is [LinkedIn](https://www.linkedin.com/in/geissonponce). Email works too: g.ponce1901@gmail.com.
